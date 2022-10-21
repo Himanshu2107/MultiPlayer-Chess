@@ -10,7 +10,8 @@ Two players can play the game of chess over the internet in real time using this
 
 After installing all of the dependencies of the project.
 
-Run `npm start` from the root directory. 
+1. Run `node server.js` from the src directory.
+2. Run `npm start` from the root directory. 
 
 This will start the server as well as the react frontend environment on your local machine. Go to `localhost:3000` to see the code in action.
 
